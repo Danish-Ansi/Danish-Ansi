@@ -1,4 +1,4 @@
-![logo](https://github.com/Danish-Ansi/Danish-Ansi/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art.png)
+![logo](https://github.com/Danish-Ansi/Danish-Ansi/blob/main/bg.png)
 <h1 align="center">Hi 👋, I'm Muhammad Danish</h1>
 <h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
 
